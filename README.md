@@ -1,12 +1,13 @@
 ###  Hi there 👋, Bekalu Abate
 
-  ### Software Developer
+  #### Software Developer
 
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Cloud Foundations
 - 💞️ I’m currently working on ... Health Care
 
-Skills: JAVA / JS / HTML / CSS / SQL / ...
+#### Technical Skills: 
+
+JAVA / JS / HTML / CSS / SQL / ...
 
 <!---
 bekalu954/bekalu954 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
