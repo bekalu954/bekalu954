@@ -2,8 +2,7 @@
 
   #### Software Developer
 
-- 🌱 I’m currently learning ... Cloud Foundations
-- 💞️ I’m currently working on ... Health Care
+- 🌱 I’m currently working on ... Bayer
 
 #### Technical Skills: 
 
