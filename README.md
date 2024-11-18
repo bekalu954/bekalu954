@@ -2,11 +2,11 @@
 
   #### Software Developer
 
-- 🌱 I’m currently working on ... Bayer
+- 🌱 I am a lifelong learner passionate about acquiring new skills, currently focused on cloud engineering and mastering technologies like cloud infrastructure, DevOps, and Kubernetes.
 
 #### Technical Skills: 
 
-JAVA / JS / HTML / CSS / SQL / ...
+JAVA / JS / HTML / CSS / SQL / DevOps / K8s ...
 
 <!---
 bekalu954/bekalu954 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
